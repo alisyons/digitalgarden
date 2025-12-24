@@ -3,7 +3,7 @@
 ---
 
 # Hi!!!
-![furretgif.gif](/img/user/furretgif.gif)
+![[furretgif.gif \| center]]
 Welcome to my digital garden / virtual commonplace book / whatever you may call it. I want to maintain this as a space for my thoughts, opinions, and sharing everything I don't put in my physical journal. Expect media opinions, thoughts and maybe some artworks. test
 
 ## Recent posts
