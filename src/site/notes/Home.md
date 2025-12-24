@@ -7,6 +7,6 @@ Welcome to my digital garden / virtual commonplace book / whatever you may call 
 
 ## Recent posts
 ```(dataview)
-list from "Blog Posts"
+list from "Blog base"
 ```
 ![[Blog base.base]]
