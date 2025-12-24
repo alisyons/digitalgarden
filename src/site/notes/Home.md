@@ -11,4 +11,3 @@ Welcome to my digital garden / virtual commonplace book / whatever you may call 
 | [[Blog posts/Test blog post\|Test blog post]] | 11:34 PM - December 24, 2025 | #misc |
 
 { .block-language-dataview}
-![[Blog base.base]]
