@@ -1,1 +1,1 @@
-```dataview TABLE AS "Post", file.ctime AS "Created on", file.tags as "Tags" FROM "Blog posts"```
+```dataview TABLE AS "Post", file.ctime AS "Created on", file.tags FROM "Blog posts"```
