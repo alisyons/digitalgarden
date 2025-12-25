@@ -3,7 +3,7 @@
 ---
 
 ---
-## Welcome to my little corner of the web 🌱
+## ==Welcome to my little corner of the web== 🌱
 
 My name is Alisa, I was born in 1999 and I currently live in Germany. I have a bachelor's degree in Media Engineering and a master's degree in Digital Games. 
 
