@@ -8,6 +8,7 @@
 My name is Alisa, I was born in 1999 and I currently live in Germany. I have a bachelor's degree in Media Engineering and a master's degree in Digital Games. 
 
 <img src="https://pixelsafari.neocities.org/stamps/catheadphones.gif" alt="center" style="max-width: 100px">
+
 I really enjoy ==drawing, coding, music and video games==. In my free time I also do indoor rock climbing. 
 ### Why make this site?
 
@@ -26,4 +27,4 @@ You can find me on:
 [Twitter](https://x.com/alisyons_)
 [Instagram](https://instagram.com/alisyons)
 
-I also have [another website](https://wither-sable.vercel.app/) for my game development / worldbuilding projects.
+I also have [another website](https://wither-sable.vercel.app/) for my ==game development / worldbuilding projects==.
