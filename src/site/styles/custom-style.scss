@@ -12,6 +12,18 @@ body {
     //  }
 
     a[data-content="#media"] {
-        background-color: red;
+        background-color: #5e4979;
+        color: #dfdbe4;
     }
+
+    a[data-content="#music"] {
+        background-color: #794239;
+        color: #efac9e;
+    }
+
+    a[data-content="#art"] {
+        background-color: #005e6c;
+        color: #5fbfd1;
+    }
+
 }
