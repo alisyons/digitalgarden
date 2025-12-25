@@ -10,4 +10,8 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    a[data-content="#media"] {
+        background-color: red;
+    }
 }
