@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/about-me/"}
 ---
 
-
+---
 ## Welcome to my little corner of the web 🌱
 
 My name is Alisa, I was born in 1999 and I currently live in Germany. I have a bachelor's degree in Media Engineering and a master's degree in Digital Games. 
 
-<img src="https://pixelsafari.neocities.org/stamps/catheadphones.gif" alt="center" style="max-width: 100px">
+<img src="https://pixelsafari.neocities.org/stamps/catheadphones.gif" alt="center" style="max-width: 100px; margin: 1rem auto;">
 
 I really enjoy ==drawing, coding, music and video games==. In my free time I also do indoor rock climbing. 
 ### Why make this site?
