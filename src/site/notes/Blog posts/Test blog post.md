@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-posts/test-blog-post/","hide":"true"}
+{"dg-publish":true,"dg-path":"Test blog post.md","permalink":"/test-blog-post/","hide":"true"}
 ---
 
 
