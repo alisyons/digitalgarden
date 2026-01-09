@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog post template.md","permalink":"/blog-post-template/","hide":"true"}
+{"dg-publish":true,"dg-path":"2026 CD bucket list.md","permalink":"/2026-cd-bucket-list/","hide":"true"}
 ---
 
 
