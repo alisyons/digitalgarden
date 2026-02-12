@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Perfume - ⊿.md","permalink":"/perfume/","hide":"true"}
 ---
 
-
+---
 #music 
 
 ![PerfumeTriCD.png](/img/user/images/PerfumeTriCD.png)
@@ -16,3 +16,7 @@ My history with Perfume as a band is quite extensive. I discovered them as a you
 It's not just nostalgia that contribtes to my enjoyment of the album. It's frankly impressive how contemporary an album from 2006 can sound. Since the vibe Perfume usually goes for is _futuristic_, this was well realized. Their music still sounds fresh in 2026. It's incredibly catchy J-Pop that paved the way for a lot of East Asian pop music as we know it today. 
 
 This album will forever stay important to me for reasons that might be hard to explain to others. It sounds like stereotypical cutesy girl group pop but to me it's a lot more than that. It encapsulates the spirit of an era, an important time in my youth and also the brilliance that electronic pop music can be.
+
+---
+
+`$= dv.el('span', "created " + dv.current().file.ctime.toLocaleString(DateTime.DATETIME_SHORT))
