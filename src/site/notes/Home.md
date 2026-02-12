@@ -10,10 +10,10 @@ Welcome to my digital garden / virtual commonplace book / whatever you may call 
 
 ## Recent posts
 ---
-| File                                                       | Created on                  | Tags   |
-| ---------------------------------------------------------- | --------------------------- | ------ |
-| [[Blog posts/Perfume - ⊿\|Perfume - ⊿]]                 | 9:26 PM - February 12, 2026 | #music |
-| [[Blog posts/2026 CD bucket list\|2026 CD bucket list]] | 7:11 PM - January 09, 2026  | #music |
-| [[Blog posts/Test blog post\|Test blog post]]           | 5:50 PM - January 09, 2026  | #misc  |
+| File                                                             | Created on                   | Tags     |
+| ---------------------------------------------------------------- | ---------------------------- | -------- |
+| [[Blog posts/SHRED!! - project idea\|SHRED!! - project idea]] | 10:44 PM - February 12, 2026 | #gamedev |
+| [[Blog posts/Perfume - ⊿\|Perfume - ⊿]]                       | 9:26 PM - February 12, 2026  | #music   |
+| [[Blog posts/2026 CD bucket list\|2026 CD bucket list]]       | 7:11 PM - January 09, 2026   | #music   |
 
 { .block-language-dataview}
