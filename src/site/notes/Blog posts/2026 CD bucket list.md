@@ -2,8 +2,7 @@
 {"dg-publish":true,"dg-path":"2026 CD bucket list.md","permalink":"/2026-cd-bucket-list/","hide":"true"}
 ---
 
-
-#music 
+---
 
 List of CDs I want to find second-hand (will be updated)
 
@@ -18,3 +17,7 @@ List of CDs I want to find second-hand (will be updated)
 | Hatful of Hollow  | The Smiths | 1984 |             |                     |             |
 | Silent Alarm      | Bloc Party | 2005 |             |                     |             |
 
+---
+#music 
+<span><span>created 9.1.2026, 19:11</span></span>
+<span><span>last modified 12.2.2026, 23:20</span></span>

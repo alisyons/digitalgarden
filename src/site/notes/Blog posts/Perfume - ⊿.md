@@ -3,7 +3,6 @@
 ---
 
 ---
-#music 
 
 ![PerfumeTriCD.png](/img/user/images/PerfumeTriCD.png)
 <p style="text-align: center;"><i>Perfume - ⊿</i></p>
@@ -18,6 +17,6 @@ It's not just nostalgia that contribtes to my enjoyment of the album. It's frank
 This album will forever stay important to me for reasons that might be hard to explain to others. It sounds like stereotypical cutesy girl group pop but to me it's a lot more than that. It encapsulates the spirit of an era, an important time in my youth and also the brilliance that electronic pop music can be.
 
 ---
-
+#music 
 <span><span>created 12.2.2026, 21:26</span></span>
-<span><span>last modified 12.2.2026, 21:54</span></span>
+<span><span>last modified 12.2.2026, 23:19</span></span>

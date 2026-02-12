@@ -2,8 +2,7 @@
 {"dg-publish":true,"dg-path":"shred.md","permalink":"/shred/","hide":"true"}
 ---
 
-
-#gamedev 
+---
 
 Today I came up with the initial concept for a game whose scope is smaller than Wither. It's called _SHRED!!_ and it's a card game centered around a _vampire band_ touring their country and amassing fans to _play in the big capital._ 
 
@@ -16,6 +15,6 @@ The structure is as follows: the band needs to play 5 gigs in total, with the la
 I might restructure my other site for this project's documentation also.
 
 ---
-
+#gamedev 
 <span><span>created 12.2.2026, 22:44</span></span>
-<span><span>last modified 12.2.2026, 23:10</span></span>
+<span><span>last modified 12.2.2026, 23:20</span></span>
