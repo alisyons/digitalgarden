@@ -16,5 +16,6 @@ I might restructure my other site for this project's documentation also.
 
 ---
 #gamedev 
+
 <span><span>created 12.2.2026, 22:44</span></span>
-<span><span>last modified 12.2.2026, 23:20</span></span>
+<span><span>last modified 12.2.2026, 23:38</span></span>
