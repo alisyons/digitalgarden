@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog post template.md","permalink":"/blog-post-template/","hide":"true"}
+{"dg-publish":true,"dg-path":"shred.md","permalink":"/shred/","hide":"true"}
 ---
 
 
@@ -18,4 +18,4 @@ I might restructure my other site for this project's documentation also.
 ---
 
 <span><span>created 12.2.2026, 22:44</span></span>
-<span><span>last modified 12.2.2026, 23:09</span></span>
+<span><span>last modified 12.2.2026, 23:10</span></span>
