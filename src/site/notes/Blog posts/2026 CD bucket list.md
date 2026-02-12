@@ -12,8 +12,8 @@ List of CDs I want to find second-hand (will be updated)
 | Plastic Beach     | Gorillaz   | 2010 |             |                     |             |
 | In Rainbows       | Radiohead  | 2007 |             |                     |             |
 | Kurutta Taiyo     | BUCK-TICK  | 1991 |             |                     |             |
-| GAME              | Perfume    | 2008 |             |                     |             |
-| Triangle          | Perfume    | 2009 |             |                     |             |
+| GAME              | Perfume    | 2008 | January 22  | Tokyo               |             |
+| Triangle          | Perfume    | 2009 | January 22  | Tokyo               |             |
 | The Queen is Dead | The Smiths | 1986 |             |                     |             |
 | Hatful of Hollow  | The Smiths | 1984 |             |                     |             |
 | Silent Alarm      | Bloc Party | 2005 |             |                     |             |
