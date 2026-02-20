@@ -37,4 +37,14 @@ body {
         color: #5fbfd1;
     }
 
+    a[data-content="#cons"] {
+        background-color: #2F68A3;
+        color: #6DCFE8;
+    }
+
+    a[data-content="#gamedev"] {
+        background-color: #3E9673;
+        color: #6DE8C3;
+    }
+
 }
