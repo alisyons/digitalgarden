@@ -27,4 +27,4 @@ You can find me on:
 [Twitter](https://x.com/alisyons_)
 [Instagram](https://instagram.com/alisyons)
 
-I also have [another website](https://wither-sable.vercel.app/) for my ==game development / worldbuilding projects==.
+I also have [another website](https://wither-sable.vercel.app/) for my ==game development / worldbuilding project==.
