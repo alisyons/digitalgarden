@@ -8,8 +8,8 @@
 Welcome to my digital garden / virtual commonplace book / whatever you may call it. I want to maintain this as a space for my thoughts, opinions, and sharing everything I don't put in my physical journal. Expect media opinions, thoughts and maybe some artworks.
 <img src="https://pixelsafari.neocities.org/stamps/furret.gif" alt="center" style="max-width: 100px">
 
-## Recent posts
 ---
+## Recent posts
 | File                                                             | Created on                   | Tags     |
 | ---------------------------------------------------------------- | ---------------------------- | -------- |
 | [[Blog posts/Cons 2026\|Cons 2026]]                           | 4:48 PM - February 20, 2026  | #cons    |
