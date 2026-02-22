@@ -3,7 +3,7 @@
 ---
 
 
-Recently, a friend of mine showed me a particular album: ["Dream Merchant" by tottomori](https://www.youtube.com/watch?v=WSXX4wN7UkU&t=1310s&pp=ygUOZHJlYW0gbWVyY2hhbnQ%3D). It has the additional title _"(Imaginary Game Soundtrack)"_. Something about this stuck with me. It's not anything that belongs to a "complete" project and yet, it's _enough_. It evokes such vivid images that I don't feel like I'm missing out on not being able to play this imaginary game. My friend also showed me that tottomori is packing his CDs by hand in lovely little paper envelopes that he also illustrated and designed. I found the dedication to the thing he _made_ truly inspiring.
+Recently, a friend of mine showed me a peculiar album: ["Dream Merchant" by tottomori](https://www.youtube.com/watch?v=WSXX4wN7UkU&t=1310s&pp=ygUOZHJlYW0gbWVyY2hhbnQ%3D). It has the additional title _"(Imaginary Game Soundtrack)"_. Something about this stuck with me. It's not anything that belongs to a "complete" project and yet, it's _enough_. It evokes such vivid images that I don't feel like I'm missing out on not being able to play this imaginary game. My friend also showed me that tottomori is packing his CDs by hand in lovely little paper envelopes that he also illustrated and designed. I found the dedication to the thing he _made_ truly inspiring.
 
 ![dreamCD_04.png](/img/user/images/dreamCD_04.png)
 
@@ -21,4 +21,4 @@ This site, too, is a small part of this self-actualization. Initially I wanted t
 #misc 
 
 <span><span>created 22.2.2026, 19:10</span></span>
-<span><span>last modified 22.2.2026, 19:52</span></span>
+<span><span>last modified 22.2.2026, 19:53</span></span>
