@@ -13,12 +13,12 @@ Another project that continues to fascinate me is [Vermis](https://hollow-press.
 
 ![vermis.png|400](/img/user/images/vermis.png)
 
-This artist's visual rendition is stunning, with the pixelated illustrations increasing uncertainty whetherthis detail you saw is actually there. This is another one of those "incomplete" projects that are perfectly complete even without the accompanying game. Mayhaps even better without it. It has a similar effect on me as tottomori's work. I feel more pushed to even just conceptualize something as long as I have some kind of medium to go along with it, even if it's not the ideal result. The viral social media phrase _"Make sure it exists, you can make it perfect later."_ is very felt in these moments. I am also trying to detach myself from any form of commercial success and making things for my self expression and learning first and foremost. If someone else ends up enjoying it, then it's a bonus. 
+This artist's visual rendition is stunning, with the pixelated illustrations increasing uncertainty whether this detail you saw is actually there. This is another one of those "incomplete" projects that are perfectly complete even without the accompanying game. Mayhaps even better without it. It has a similar effect on me as tottomori's work. I feel more pushed to even just conceptualize something as long as I have some kind of medium to go along with it, even if it's not the ideal result. The viral social media phrase _"Make sure it exists, you can make it perfect later."_ is very felt in these moments. I am also trying to detach myself from any form of commercial success and making things for my self expression and learning first and foremost. If someone else ends up enjoying it, then it's a bonus. 
 
-This site, too, is a small part of this self-actualization. Initially I wanted to build an elaborate Neocities page but I have only limited amounts of time. So I coincidentally ofund a way to set up my preferred tool for note taking as a self-hosted website without having to build the HTML/CSS skeleton from scratch. I have enough opportunities to treat this as a code playground without ultimate freedom, and sometimes limitation breeds creativity even in a coding context. This is a little seed planted that will hopefully grow into something lasting.
+This site, too, is a small part of this self-actualization. Initially I wanted to build an elaborate Neocities page but I have only limited amounts of time. So I coincidentally discovered a way to set up my preferred tool for note taking as a self-hosted website without having to build the HTML/CSS skeleton from scratch. I have enough opportunities to treat this as a code playground without ultimate freedom, and sometimes limitation breeds creativity even in a coding context. This is a little seed planted that will hopefully grow into something lasting.
 
 ---
 #misc 
 
 <span><span><em>created 22.2.2026, 19:10</em></span></span>
-<span><span><em>last modified 22.2.2026, 22:39</em></span></span>
+<span><span><em>last modified 23.2.2026, 00:27</em></span></span>
