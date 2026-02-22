@@ -5,7 +5,7 @@
 
 Recently, a friend of mine showed me a particular album: ["Dream Merchant" by tottomori](https://www.youtube.com/watch?v=WSXX4wN7UkU&t=1310s&pp=ygUOZHJlYW0gbWVyY2hhbnQ%3D). It has the additional title _"(Imaginary Game Soundtrack)"_. Something about this stuck with me. It's not anything that belongs to a "complete" project and yet, it's _enough_. It evokes such vivid images that I don't feel like I'm missing out on not being able to play this imaginary game. My friend also showed me that tottomori is packing his CDs by hand in lovely little paper envelopes that he also illustrated and designed. I found the dedication to the thing he _made_ truly inspiring.
 
-![dreamCD_04.png](/img/user/images/dreamCD_04.png)]
+<img style="width: 500px; display: block; margin: 0px auto;" src="img/user/images/dreamCD_04.png">
 
 Tottomori quickly became a creator whose work genuinely inspires me to make something exist whenever I listen to his music. I'm a very perfectionist person and I have been operating under the belief that unless something is flawless and grander than me it has no reason to be made by me. This functionally blocked me from attempting even the smallest project. I'm now trying to actively work against this mindset and treat the journey as the destination. Without making many imperfect small things, how can I improve? 
 
@@ -21,4 +21,4 @@ This site, too, is a small part of this self-actualization. Initially I wanted t
 #misc 
 
 <span><span>created 22.2.2026, 19:10</span></span>
-<span><span>last modified 22.2.2026, 19:49</span></span>
+<span><span>last modified 22.2.2026, 19:51</span></span>
