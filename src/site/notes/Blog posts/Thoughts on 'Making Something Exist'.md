@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-posts/thoughts-on-making-something-exist/","hide":"true"}
+{"dg-publish":true,"dg-path":"Thoughts on 'Making Something Exist'.md","permalink":"/thoughts-on-making-something-exist/","hide":"true"}
 ---
 
 
@@ -21,4 +21,4 @@ This site, too, is a small part of this self-actualization. Initially I wanted t
 #misc 
 
 <span><span><em>created 22.2.2026, 19:10</em></span></span>
-<span><span><em>last modified 23.2.2026, 00:27</em></span></span>
+<span><span><em>last modified 23.2.2026, 00:32</em></span></span>
