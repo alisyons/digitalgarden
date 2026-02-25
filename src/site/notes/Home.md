@@ -8,7 +8,7 @@
 Welcome to my digital garden / virtual commonplace book / whatever you may call it. I want to maintain this as a space for my thoughts, opinions, and sharing everything I don't put in my physical journal. Expect media opinions, thoughts and maybe some artworks.
 
 
-![wizard.gif|300](/img/user/images/wizard.gif)
+<img src="https://64.media.tumblr.com/312c80c2e13d7463a22a052c9a55a9db/032d3b58b5116330-5d/s1280x1920/6c18376e3d2ef6e58a11267d4e3484c7a10e0cfe.gifv" alt="center" style="max-width: 300px">
 
 ---
 ## Recent posts
