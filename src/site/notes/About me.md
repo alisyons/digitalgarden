@@ -4,7 +4,6 @@
 
 ---
 ## 🌱 ==Welcome to my little corner of the web==
----
 
 My name is Alisa, I was born in 1999 and I currently live in Germany. I have a bachelor's degree in Media Engineering and a master's degree in Digital Games. 
 
@@ -12,6 +11,7 @@ My name is Alisa, I was born in 1999 and I currently live in Germany. I have a b
 
 I really enjoy ==drawing, coding, music and video games==. In my free time I also do indoor rock climbing. 
 ### Why make this site?
+---
 
 I'm growing ==increasingly annoyed== with the current (2025) state of the internet, social media and algorithms. Nowadays it's impossible to take it slow when building an online presence, and you are bombarded by ads. Also I want to stay in touch with my coding skills and this site gives me enough of a playground without me having to build a site from scratch.
 
