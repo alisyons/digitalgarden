@@ -14,6 +14,7 @@ Welcome to my digital garden / virtual commonplace book / whatever you may call 
 ## Recent posts
 | File                                                                                         | Created on                   | Tags     |
 | -------------------------------------------------------------------------------------------- | ---------------------------- | -------- |
+| [[Blog posts/Mori Blanck - Black Lake\|Mori Blanck - Black Lake]]                         | 11:36 AM - March 21, 2026    | #music   |
 | [[Blog posts/Cons 2026\|Cons 2026]]                                                       | 12:49 AM - February 23, 2026 | #cons    |
 | [[Blog posts/Thoughts on 'Making Something Exist'\|Thoughts on 'Making Something Exist']] | 12:32 AM - February 23, 2026 | #misc    |
 | [[Blog posts/2026 CD bucket list\|2026 CD bucket list]]                                   | 7:58 PM - February 22, 2026  | #music   |
