@@ -14,11 +14,12 @@ Welcome to my digital garden / virtual commonplace book / whatever you may call 
 ## Recent posts
 | File                                                                                         | Created on                   | Tags     |
 | -------------------------------------------------------------------------------------------- | ---------------------------- | -------- |
-| [[Blog posts/Mori Blanck - Black Lake\|Mori Blanck - Black Lake]]                         | 11:36 AM - March 21, 2026    | #music   |
-| [[Blog posts/Cons 2026\|Cons 2026]]                                                       | 12:49 AM - February 23, 2026 | #cons    |
-| [[Blog posts/Thoughts on 'Making Something Exist'\|Thoughts on 'Making Something Exist']] | 12:32 AM - February 23, 2026 | #misc    |
-| [[Blog posts/2026 CD bucket list\|2026 CD bucket list]]                                   | 7:58 PM - February 22, 2026  | #music   |
-| [[Blog posts/Perfume - ⊿\|Perfume - ⊿]]                                                   | 7:58 PM - February 22, 2026  | #music   |
-| [[Blog posts/SHRED!! - project idea\|SHRED!! - project idea]]                             | 7:57 PM - February 22, 2026  | #gamedev |
+| [[Blog posts/Famiresu Iko\|Famiresu Iko]]                                                 | 12:18 PM - April 07, 2026    | #media   |
+| [[Blog posts/Mori Blanck - Black Lake\|Mori Blanck - Black Lake]]                         | 6:58 PM - March 26, 2026     | #music   |
+| [[Blog posts/Thoughts on 'Making Something Exist'\|Thoughts on 'Making Something Exist']] | 7:10 PM - February 22, 2026  | #misc    |
+| [[Blog posts/Cons 2026\|Cons 2026]]                                                       | 4:48 PM - February 20, 2026  | #cons    |
+| [[Blog posts/SHRED!! - project idea\|SHRED!! - project idea]]                             | 10:44 PM - February 12, 2026 | #gamedev |
+| [[Blog posts/Perfume - ⊿\|Perfume - ⊿]]                                                   | 9:26 PM - February 12, 2026  | #music   |
+| [[Blog posts/2026 CD bucket list\|2026 CD bucket list]]                                   | 7:11 PM - January 09, 2026   | #music   |
 
 { .block-language-dataview}

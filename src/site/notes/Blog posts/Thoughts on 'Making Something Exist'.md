@@ -20,5 +20,5 @@ This site, too, is a small part of this self-actualization. Initially I wanted t
 ---
 #misc 
 
-<span><span><em>created 23/02/2026, 00:32</em></span></span>
-<span><span><em>last modified 23/02/2026, 00:32</em></span></span>
+<span><span><em>created 22.2.2026, 19:10</em></span></span>
+<span><span><em>last modified 23.2.2026, 00:32</em></span></span>

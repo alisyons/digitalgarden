@@ -21,5 +21,5 @@ We are aiming for distribution at the gigs in Berlin and Cologne, so for us to b
 ### _✦ When the project is done, everyone can download and print out the zine! If we could get some zine distributors for the other shows, that would be amazing. Spread the Pulp love! ✦_
 
 ---
-<span><span><em>created 21/03/2026, 10:39</em></span></span>
-<span><span><em>last modified 21/03/2026, 11:10</em></span></span>
+<span><span><em>created 26.3.2026, 18:58</em></span></span>
+<span><span><em>last modified 21.3.2026, 11:10</em></span></span>
