@@ -4,7 +4,7 @@
 
 
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
 <img src="/img/user/images/famiresu1.png" style="max-width: 300px">
 <img src="/img/user/images/famiresu2.png" style="max-width: 300px">
 </div>
@@ -33,4 +33,4 @@ Wayama Yama announced that her next work will be published in 2027. We don't kno
 #media  
 
 <span><span><em>created 7.4.2026, 12:18</em></span></span>
-<span><span><em>last modified 7.4.2026, 13:29</em></span></span>
+<span><span><em>last modified 7.4.2026, 13:30</em></span></span>
