@@ -10,7 +10,7 @@
 </div>
 
 > [!warning]
-> This post includes spoilers for all of Famiresu Iko! If you want to read this manga (which I highly recommend), I advise you to do so and come back later. It's a quick read!
+> This post includes _**spoilers**_ for all of Famiresu Iko! If you want to read this manga (which I highly recommend), I advise you to do so and come back later. It's a quick read!
 
 I watched Karaoke Iko yesterday with my friend. It was a fun, somewhat lighthearted comedy / coming of age story about a middle schooler having to teach a yakuza how to sing because of his crazy boss. Never would I have expected a sequel that changes so much in tone and explores the relationship between these characters after a time skip. 
 
@@ -33,4 +33,4 @@ Wayama Yama announced that her next work will be published in 2027. We don't kno
 #media  
 
 <span><span><em>created 7.4.2026, 12:18</em></span></span>
-<span><span><em>last modified 7.4.2026, 13:26</em></span></span>
+<span><span><em>last modified 7.4.2026, 13:29</em></span></span>
